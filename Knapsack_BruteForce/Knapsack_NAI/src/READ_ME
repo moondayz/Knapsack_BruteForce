@@ -1,0 +1,14 @@
+READ ME
+
+Knapsack using Brute Force
+
+Using input data from 1.txt file
+
+
+ * Brute force solution to the "knapsack problem" 
+ *
+ * Given n items, each having a positive weight and a positive value,
+ * and given a knapsack with a maximum weight capacity, find a subset
+ * of the items of maximum total value whose total weight does not
+ * exceed the knapsack capacity.
+ *
